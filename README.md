@@ -52,28 +52,27 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ## Unsupported Packages
 
- - [DapperExtensions](https://github.com/tmsmith/Dapper-Extensions) - DapperExtensions is a small library package which adds basic CRUD operations to Dapper.
- - [Dapper.Mapper](https://github.com/dotarj/Dapper.Mapper) - A small library which extends Dapper multi-mapping functionality. It allows you to map a single row to multiple objects. 
- - [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave/) - A small library package which adds basic CRUD operations to Dapper and saves complex objects to the database in a very simple way.
- - [Dapper.Extension](https://github.com/m98proxy/Dapper.Extension) - CRUD extension methods for Dapper
- - [Dapper.FluentColumnMapping](https://github.com/alexander-87/Dapper.FluentColumnMapping) - Fluent Object-Column Mappings for use with Dapper
+ - [DapperExtensions](https://github.com/tmsmith/Dapper-Extensions) - A small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs.
+ - [Dapper.Mapper](https://github.com/dotarj/Dapper.Mapper) - A extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them. 
+ - [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave/) - Dapper.SimpleSave makes it easy to save complex object hierarchies to a relational database.
+ - [Dapper.Extension](https://github.com/m98proxy/Dapper.Extension) - CRUD extension methods for Dapper (WIP).
+ - [Dapper.FluentColumnMapping](https://github.com/alexander-87/Dapper.FluentColumnMapping) - Fluent Object-Column Mappings for use with Dapper.
  - [Dapper.Fluent](https://github.com/beardeddev/dapper-fluent) - Dapper.Fluent is a small and easy library that supports fluent API for query construction and execution over database connection using [Dapper.Net](https://github.com/StackExchange/Dapper).
  - [Dapper.Tvp](https://www.nuget.org/packages/Dapper.Tvp/) - A couple of helper classes to make using TVP parameters with Dapper easier.
  - [Dapper.DynamicReportGenerator](https://github.com/kvnallen/Dapper.DynamicReportGenerator) - A dynamic report generator for Dapper. Can be used to return generic data in CSV (currently) format.
  - [Dapper.Extensions.Linq](https://github.com/ryanwatson/Dapper.Extensions.Linq) - Dapper.Extensions.Linq builds on this providing advanced DB access through Linq queries
- - [Dapper.DataRepositories](https://github.com/ElNinjaGaiden/Dapper.DataRepositories) - Base classes to implement Repository pattern using Dapper as ORM
+ - [Dapper.DataRepositories](https://github.com/ElNinjaGaiden/Dapper.DataRepositories) - Base structures to implement Data Repository pattern upon Dapper as MicroOrm.
  - [Dapper.Data](https://github.com/mkonstan/Dapper.Data) - Micro-orm implemented on Dapper, streamlines connection and transaction management while preserving flexibility and usability of Dapper.
  - [Dapper.SimpleLoad](https://github.com/Paymentsense/Dapper.SimpleLoad) - Dapper.SimpleLoad simplifies Dapper multi-mapping to load complex objects from a relational database. It's the companion to [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave).
  - [DeclarativeSql.Dapper](https://github.com/xin9le/DeclarativeSql) - This library provides attribute-based table mapping and simple database access.
- - [Stove.Dapper](https://github.com/stoveproject/Stove) - Stove is an application framework that wraps and abstracts your needs for easy use. Built with strongly adopted dependency injection principles.
+ - [Stove.Dapper](https://github.com/stoveproject/Stove) - Domain Driven Design oriented application framework, meets CRUD needs.
  - [Dapper.TableValuedParameter](https://github.com/ayberkcanturk/Dapper.TableValuedParameter) - An extension to provide Table-Valued Parameters to Dapper. .NET Core support available!
  - [Dapper.Extensions.Repository](https://github.com/symondev/dapper-extensions-repository) - Dapper.Extensions.Repository is an extension to integration with dapper-dot-net and MicroOrm.Dapper.Repositories.
- - [Dapper.ColumnMapper](https://github.com/dturkenk/Dapper.ColumnMapper) - Simple extension to Dapper to allow an arbitrary column to property mapping
- - [DapperWrappe](https://github.com/half-ogre/dapper-wrapper) - DapperWrapper is a library that wraps the Dapper extension methods on IDbConnection to make unit testing easier.
- - [Storm.Dapper](https://github.com/infosupport/Storm) - Sql executor for Storm using Sam Saffron's Dapper.
- - [Dapper.MoqTests](https://github.com/laingsimon/Dapper.MoqTests) - Assembly that assists in testing Dapper methods, allows for Verify and Setup with SQL and parameters
- - [Dashing.Testing](https://github.com/Polylytics/dashing) - Dashing is a simple to use mini ORM built on top of Dapper. It aims to provide fantastic productivity while not sacrificing (too much) performance.
-
+ - [Dapper.ColumnMapper](https://github.com/dturkenk/Dapper.ColumnMapper) - Simple extension to Dapper to allow arbitrary column to property mapping.
+ - [DapperWrappe](https://github.com/half-ogre/dapper-wrapper) - DA simple abstraction atop the Dapper extension methods and TransactionScope for testability.
+ - [Storm.Dapper](https://github.com/infosupport/Storm) - Automagically generates C# database layers for stored procedures.
+ - [Dapper.MoqTests](https://github.com/laingsimon/Dapper.MoqTests) - Assemblies to assist testing dapper database invocations.
+ 
 ## Providers
 
  - [Dapper.Rainbow.MySql](https://github.com/antonheryanto/dapper-rainbow-mysql) - Implementation of Dapper.Rainbow targeting MySql, with addons that gives you basic crud operations while having to write even less sql.
