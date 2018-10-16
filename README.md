@@ -22,7 +22,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
  - [Dapper Tutorial](http://dapper-tutorial.net/dapper) - Basic learning material for Dapper.
  - [Knowledge Base](https://dapper-tutorial.net/knowledge-base) - Translated posts from Stack Overflow
- - [Riptutorial.com](https://riptutorial.com/dapper) - Archived Stack Overflow Documentation (Multi-Language)
+ - [RIP Tutorial](https://riptutorial.com/dapper) - Archived Stack Overflow Documentation (Multi-Language)
  - [Google](http://www.letmegooglethat.com/?q=dapper) - Up-and-coming search engine ;) 
 
 ## Supported Packages
