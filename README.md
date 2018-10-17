@@ -71,9 +71,8 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [DapperWrappe](https://github.com/half-ogre/dapper-wrapper) - DA simple abstraction atop the Dapper extension methods and TransactionScope for testability.
 - [Dashing](https://github.com/Polylytics/dashing) - Dashing is a simple to use mini ORM built on top of Dapper.
 - [DeclarativeSql.Dapper](https://github.com/xin9le/DeclarativeSql) - This library provides attribute-based table mapping and simple database access.
-- [SQLinq.Dapper](https://github.com/crpietschmann/SQLinq) - ASQLinq - use LINQ to generate Ad-Hoc SQL Queries.
-- [Storm.Dapper](https://github.com/infosupport/Storm) - Automagically generates C# database layers for stored procedures.
-- [Stove.Dapper](https://github.com/stoveproject/Stove) - Domain Driven Design oriented application framework, meets CRUD needs.
+- [SQLinq.Dapper](https://www.nuget.org/packages/SQLinq.Dapper) - Allows for SQLinq to be more easily used with a little help from "Dapper dot net".
+- [Stove.Dapper](https://www.nuget.org/packages/Stove.Dapper) - Dapper integration for Stove.
  
 ## Providers
 
