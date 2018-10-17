@@ -27,7 +27,6 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Google](http://www.letmegooglethat.com/?q=dapper) - Up-and-coming search engine ;) 
 
 ## Popular Packages
-- [Dapper](https://github.com/StackExchange/Dapper) - Dapper is a NuGet library that you can add in to your project that will extend your IDbConnection interface.
 - [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
 - [Dapper.Contrib](https://www.nuget.org/packages/Dapper.Contrib/) - The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.
 - [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD/) - Basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
