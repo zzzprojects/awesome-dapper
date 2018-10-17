@@ -4,6 +4,8 @@
 
 [Dapper](https://github.com/StackExchange/Dapper) is a simple object mapper for .NET and own the title of King of Micro ORM in terms of speed and is virtually as fast as using a raw ADO.NET data reader.
 
+Dapper is a [NuGet library](https://www.nuget.org/packages/Dapper) that you can add in to your project that will extend your IDbConnection interface.
+
 A curated list of awesome dapper libraries, packages, and documentation.
 
 ### Contributing
