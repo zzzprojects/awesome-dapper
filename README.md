@@ -26,7 +26,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
  - [Google](http://www.letmegooglethat.com/?q=dapper) - Up-and-coming search engine ;) 
 
 ## Supported Packages
-
+ - [Dapper](https://github.com/StackExchange/Dapper) - Dapper is a NuGet library that you can add in to your project that will extend your IDbConnection interface.
  - [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus is a library that dramatically improves dapper performances by using high efficient Bulk Actions Helpers (Insert, Update, Delete, and Merge).
  - [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
  - [Dapper.Contrib](https://github.com/StackExchange/Dapper/tree/master/Dapper.Contrib) - Dapper.Contrib contains a number of helper methods for inserting, getting, updating and deleting records. 
