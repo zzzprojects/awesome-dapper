@@ -4,8 +4,6 @@
 
 [Dapper](https://github.com/StackExchange/Dapper) is a simple object mapper for .NET and own the title of King of Micro ORM in terms of speed and is virtually as fast as using a raw ADO.NET data reader.
 
-Dapper is a [NuGet library](https://www.nuget.org/packages/Dapper) that you can add in to your project that will extend your IDbConnection interface.
-
 A curated list of awesome dapper libraries, packages, and documentation.
 
 ### Contributing
@@ -16,6 +14,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 - [Awesome Dapper](#awesome-dapper)
    - [Documentation and Learning](#documentation-and-learning)
+   - [Popular Packages](#popular-packages)
    - [Supported Packages](#supported-packages)
    - [Unsupported Packages](#supported-packages)
    - [Providers](#providers)
@@ -27,9 +26,11 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [RIP Tutorial](https://riptutorial.com/dapper) - Archived Stack Overflow Documentation (Multi-Language)
 - [Google](http://www.letmegooglethat.com/?q=dapper) - Up-and-coming search engine ;) 
 
-## Supported Packages
+## Popular Packages
 - [Dapper](https://github.com/StackExchange/Dapper) - Dapper is a NuGet library that you can add in to your project that will extend your IDbConnection interface.
 - [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus is a library that dramatically improves dapper performances by using high efficient Bulk Actions Helpers (Insert, Update, Delete, and Merge).
+
+## Supported Packages
 - [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 - [Dapper.Contrib](https://github.com/StackExchange/Dapper/tree/master/Dapper.Contrib) - Dapper.Contrib contains a number of helper methods for inserting, getting, updating and deleting records. 
 - [Dapper-Async](https://github.com/StackExchange/Dapper/tree/master/Dapper.Rainbow) - Dapper-Async is a small library package which extends the IDbConnection interface with Async (asynchronous) methods.
