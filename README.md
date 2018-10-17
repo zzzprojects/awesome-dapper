@@ -31,15 +31,14 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Dapper.Contrib](https://www.nuget.org/packages/Dapper.Contrib/) - The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.
 - [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD/) - Basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
 
-
 ## Supported Packages
 - [CatFactory.Dapper](https://github.com/hherzl/CatFactory.Dapper) - CatFactory it's a scaffolding engine for .NET Core built in C#
 - [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 - [Dapper.Abstractions](https://github.com/Tazmainiandevil/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
-- [Dapper-Async](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD helpers.
 - [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
 - [Dapper.Database](https://github.com/dallasbeek/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
 - [Dapper.ParameterExtensions](https://github.com/RasicN/Dapper-Parameters) - Project to extend on Dynamic Paramters for Dapper. Currently only has a method to handle User-Defined Table Types.
+- [Dapper-Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD helpers.
 - [Dapper.SimpleCRUD.ModelGenerator](https://www.nuget.org/packages/Dapper.SimpleCRUD.ModelGenerator/) - T4 template generates database models from a database for use with Dapper.SimpleCRUD. Uses core .Net attributes so the generator could be used for other ORMs.
 - [Dapper.SqlBuilder](https://www.nuget.org/packages/Dapper.SqlBuilder/) - The Dapper SqlBuilder component, for building SQL queries dynamically.
 - [Identity.Dapper](https://github.com/grandchamp/Identity.Dapper) - Identity package that uses Dapper instead EntityFramework for use with .NET Core.
