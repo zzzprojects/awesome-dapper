@@ -28,36 +28,31 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ## Popular Packages
 - [Dapper](https://github.com/StackExchange/Dapper) - Dapper is a NuGet library that you can add in to your project that will extend your IDbConnection interface.
-- [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus is a library that dramatically improves dapper performances by using high efficient Bulk Actions Helpers (Insert, Update, Delete, and Merge).
+- [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
+- [Dapper.Contrib](https://www.nuget.org/packages/Dapper.Contrib/) - The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.
+- [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD/) - Basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
+
 
 ## Supported Packages
+- [CatFactory.Dapper](https://github.com/hherzl/CatFactory.Dapper) - CatFactory it's a scaffolding engine for .NET Core built in C#
 - [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
-- [Dapper.Contrib](https://github.com/StackExchange/Dapper/tree/master/Dapper.Contrib) - Dapper.Contrib contains a number of helper methods for inserting, getting, updating and deleting records. 
-- [Dapper-Async](https://github.com/StackExchange/Dapper/tree/master/Dapper.Rainbow) - Dapper-Async is a small library package which extends the IDbConnection interface with Async (asynchronous) methods.
-- [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD/) - Basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper. 
-- [Dapper.FastCrud](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-orm extension for Dapper.
-- [Dapper.SqlBuilder](https://github.com/StackExchange/Dapper/tree/master/Dapper.SqlBuilder) - The Dapper SqlBuilder component, for building SQL queries dynamically.
-- [LiteLib](https://unosquare.github.io/litelib/) - A cool little wrapper for SQLite based on Dapper from Unosquare Labs -- It's also free and MIT-licensed.
-- [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper
-- [MassTransit.DapperIntegration](https://github.com/MassTransit/MassTransit) - MassTransit Dapper support; MassTransit is a message-based distributed application framework for .NET 
-- [Dapper.FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper. 
-- [Dashing](https://github.com/Polylytics/dashing) - Dashing is a simple to use mini ORM built on top of Dapper.
+- [Dapper.Abstractions](https://github.com/Tazmainiandevil/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
+- [Dapper-Async](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD helpers.
+- [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
 - [Dapper.Database](https://github.com/dallasbeek/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
 - [Dapper.ParameterExtensions](https://github.com/RasicN/Dapper-Parameters) - Project to extend on Dynamic Paramters for Dapper. Currently only has a method to handle User-Defined Table Types.
-- [Dapper.SimpleCRUD.ModelGenerator](https://github.com/ericdc1/Dapper.SimpleCRUD/wiki/T4-Template) - You can autogenerate your POCOs directly from your database using this T4 Template.
-- [Dapper.Abstractions](https://github.com/Tazmainiandevil/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
-- [Dapper.FluentMap.Dommel](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
-- [SQLinq.Dapper](https://github.com/crpietschmann/SQLinq) - ASQLinq - use LINQ to generate Ad-Hoc SQL Queries.
+- [Dapper.SimpleCRUD.ModelGenerator](https://www.nuget.org/packages/Dapper.SimpleCRUD.ModelGenerator/) - T4 template generates database models from a database for use with Dapper.SimpleCRUD. Uses core .Net attributes so the generator could be used for other ORMs.
+- [Dapper.SqlBuilder](https://www.nuget.org/packages/Dapper.SqlBuilder/) - The Dapper SqlBuilder component, for building SQL queries dynamically.
 - [Identity.Dapper](https://github.com/grandchamp/Identity.Dapper) - Identity package that uses Dapper instead EntityFramework for use with .NET Core.
+- [LiteLib](https://unosquare.github.io/litelib/) - A cool little wrapper for SQLite based on Dapper from Unosquare Labs -- It's also free and MIT-licensed.
+- [MassTransit.DapperIntegration](https://www.nuget.org/packages/MassTransit.DapperIntegration/) - MassTransit Dapper support; MassTransit is a message-based distributed application framework for .NET 
+- [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper
 - [TsSoft.Dapper.QueryBuilder](https://github.com/tssoft/TsSoft.Dapper.QueryBuilder) - Library lets to build SQL queries for Dapper in a declarative manner by using criteria classes with attributes applied to their properties.
-- [CatFactory.Dapper](https://github.com/hherzl/CatFactory.Dapper) - CatFactory it's a scaffolding engine for .NET Core built in C#.
-- [Dapper.Bulk](https://github.com/KostovMartin/Dapper.Bulk) - Dapper.Bulk contains helper methods for bulk inserting.
-- [Dapper.MicroCRUD](https://github.com/berkeleybross/PeregrineDb) - CRUD Extensions for Dapper.Net
-- [ZKWeb.ORM.Dapper](https://github.com/zkweb-framework/ZKWeb) - A flexible web framework supports .Net Framework and .Net Core.
-- [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
 
 ## Unsupported Packages
-
+- [Dapper.MicroCRUD](https://github.com/berkeleybross/PeregrineDb) - CRUD Extensions for Dapper.Net
+- [SQLinq.Dapper](https://github.com/crpietschmann/SQLinq) - ASQLinq - use LINQ to generate Ad-Hoc SQL Queries.
+- [Dashing](https://github.com/Polylytics/dashing) - Dashing is a simple to use mini ORM built on top of Dapper.
 - [DapperExtensions](https://github.com/tmsmith/Dapper-Extensions) - A small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs.
 - [Dapper.Mapper](https://github.com/dotarj/Dapper.Mapper) - A extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them. 
 - [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave/) - Dapper.SimpleSave makes it easy to save complex object hierarchies to a relational database.
@@ -78,6 +73,9 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [DapperWrappe](https://github.com/half-ogre/dapper-wrapper) - DA simple abstraction atop the Dapper extension methods and TransactionScope for testability.
 - [Storm.Dapper](https://github.com/infosupport/Storm) - Automagically generates C# database layers for stored procedures.
 - [Dapper.MoqTests](https://github.com/laingsimon/Dapper.MoqTests) - Assemblies to assist testing dapper database invocations.
+ - [Dapper.FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
+ - [Dapper.FluentMap.Dommel](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
+ - [Dapper.FastCrud](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-orm extension for Dapper.
  
 ## Providers
 
