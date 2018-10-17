@@ -37,8 +37,8 @@ helpers.
 - [Dapper.Abstractions](https://github.com/Tazmainiandevil/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
 - [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
 - [Dapper.Database](https://github.com/dallasbeek/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
-- [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD 
 - [Dapper.Oracle](https://www.nuget.org/packages/Dapper.Oracle/) - Oracle support for Dapper Micro ORM.
+- [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD 
 - [LiteLib](https://unosquare.github.io/litelib/) - A cool little wrapper for SQLite based on Dapper from Unosquare Labs -- It's also free and MIT-licensed.
 - [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper
 
