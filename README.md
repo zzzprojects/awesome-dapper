@@ -32,7 +32,6 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD/) - Basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
 
 ## Supported Packages
-- [CatFactory.Dapper](https://github.com/hherzl/CatFactory.Dapper) - CatFactory it's a scaffolding engine for .NET Core built in C#
 - [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 - [Dapper.Abstractions](https://github.com/Tazmainiandevil/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
 - [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
