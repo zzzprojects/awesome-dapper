@@ -21,7 +21,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ## Documentation and Learning
 
-- [Dapper Tutorial](http://dapper-tutorial.net/dapper) - Basic learning material for Dapper.
+- [Dapper Tutorial](https://dapper-tutorial.net/) - Basic learning material for Dapper.
 - [Knowledge Base](https://dapper-tutorial.net/knowledge-base) - Translated posts from Stack Overflow
 - [RIP Tutorial](https://riptutorial.com/dapper) - Archived Stack Overflow Documentation (Multi-Language)
 - [Google](http://www.letmegooglethat.com/?q=dapper) - Up-and-coming search engine ;) 
