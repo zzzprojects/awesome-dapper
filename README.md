@@ -78,8 +78,9 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
  
 ## Providers
 
- - [Dapper.Rainbow.MySql](https://github.com/antonheryanto/dapper-rainbow-mysql) - Implementation of Dapper.Rainbow targeting MySql, with addons that gives you basic crud operations while having to write even less sql.
- - [Dapper.Rainbow.SQLite](https://github.com/antonheryanto/dapper-rainbow-sqlite) - Trivial micro-orm implemented on Dapper, provides with CRUD helpers. specialize to handle SQLite
- - [Dapper.Oracle](https://github.com/DIPSAS/Dapper.Oracle) - Oracle support for Dapper Micro ORM.
- - [Dapper.Rainbow.PostgreSql](https://github.com/antonheryanto/dapper-rainbow-postgresql) - Dapper Rainbow for Postgresql based on StackExchange/dapper-dot-net.
+ - [Dapper.Rainbow.MySql](https://www.nuget.org/packages/Dapper.Rainbow.MySql/) - Trivial micro-orm implemented on Dapper, provides with CRUD helpers specialize to handle MySql.
+ - [Dapper.Rainbow.SQLite](https://www.nuget.org/packages/Dapper.Rainbow.SQLite/) - Trivial micro-orm implemented on Dapper, provides with CRUD helpers. specialize to handle SQLite.
+  - [Dapper.Rainbow.PostgreSql](https://www.nuget.org/packages/Dapper.Rainbow.PostgreSql) - Trivial micro-orm implemented on Dapper, provides with CRUD helpers.
+ - [Dapper.Oracle](https://www.nuget.org/packages/Dapper.Oracle/) - Oracle support for Dapper Micro ORM.
+
 
