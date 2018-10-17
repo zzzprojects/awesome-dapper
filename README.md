@@ -30,21 +30,17 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
 - [Dapper.Contrib](https://www.nuget.org/packages/Dapper.Contrib/) - The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.
 - [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD/) - Basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
+helpers.
+- [Dapper.SqlBuilder](https://www.nuget.org/packages/Dapper.SqlBuilder/) - The Dapper SqlBuilder component, for building SQL queries dynamically.
 
 ## Supported Packages
 - [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 - [Dapper.Abstractions](https://github.com/Tazmainiandevil/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
 - [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
 - [Dapper.Database](https://github.com/dallasbeek/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
-- [Dapper.ParameterExtensions](https://github.com/RasicN/Dapper-Parameters) - Project to extend on Dynamic Paramters for Dapper. Currently only has a method to handle User-Defined Table Types.
-- [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD helpers.
-- [Dapper.SimpleCRUD.ModelGenerator](https://www.nuget.org/packages/Dapper.SimpleCRUD.ModelGenerator/) - T4 template generates database models from a database for use with Dapper.SimpleCRUD. Uses core .Net attributes so the generator could be used for other ORMs.
-- [Dapper.SqlBuilder](https://www.nuget.org/packages/Dapper.SqlBuilder/) - The Dapper SqlBuilder component, for building SQL queries dynamically.
-- [Identity.Dapper](https://github.com/grandchamp/Identity.Dapper) - Identity package that uses Dapper instead EntityFramework for use with .NET Core.
+- [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD 
 - [LiteLib](https://unosquare.github.io/litelib/) - A cool little wrapper for SQLite based on Dapper from Unosquare Labs -- It's also free and MIT-licensed.
-- [MassTransit.DapperIntegration](https://www.nuget.org/packages/MassTransit.DapperIntegration/) - MassTransit Dapper support; MassTransit is a message-based distributed application framework for .NET 
 - [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper
-- [TsSoft.Dapper.QueryBuilder](https://github.com/tssoft/TsSoft.Dapper.QueryBuilder) - Library lets to build SQL queries for Dapper in a declarative manner by using criteria classes with attributes applied to their properties.
 
 ## Unsupported Packages
 - [Dapper.ColumnMapper](https://github.com/dturkenk/Dapper.ColumnMapper) - Simple extension to Dapper to allow arbitrary column to property mapping.
