@@ -38,7 +38,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
 - [Dapper.Database](https://github.com/dallasbeek/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
 - [Dapper.ParameterExtensions](https://github.com/RasicN/Dapper-Parameters) - Project to extend on Dynamic Paramters for Dapper. Currently only has a method to handle User-Defined Table Types.
-- [Dapper-Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD helpers.
+- [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD helpers.
 - [Dapper.SimpleCRUD.ModelGenerator](https://www.nuget.org/packages/Dapper.SimpleCRUD.ModelGenerator/) - T4 template generates database models from a database for use with Dapper.SimpleCRUD. Uses core .Net attributes so the generator could be used for other ORMs.
 - [Dapper.SqlBuilder](https://www.nuget.org/packages/Dapper.SqlBuilder/) - The Dapper SqlBuilder component, for building SQL queries dynamically.
 - [Identity.Dapper](https://github.com/grandchamp/Identity.Dapper) - Identity package that uses Dapper instead EntityFramework for use with .NET Core.
