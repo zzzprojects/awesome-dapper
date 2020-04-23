@@ -31,6 +31,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD/) - Basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
 helpers.
 - [Dapper.SqlBuilder](https://www.nuget.org/packages/Dapper.SqlBuilder/) - The Dapper SqlBuilder component, for building SQL queries dynamically.
+- [Dapper.Transaction](https://www.nuget.org/packages/Dapper.Transaction/) - IDbTransaction extension methods for Dapper: A high performance Micro-ORM supporting SQL Server, MySQL, Sqlite, SqlCE, Firebird etc..
 
 ## Supported Packages
 - [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
