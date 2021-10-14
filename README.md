@@ -62,7 +62,7 @@ helpers.
 - [Dapper.Extensions.Linq](https://github.com/ryanwatson/Dapper.Extensions.Linq) - Dapper.Extensions.Linq builds on this providing advanced DB access through Linq queries.
 - [Dapper.FastCrud](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-orm extension for Dapper.
 - [Dapper.FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
-- [Dapper.FluentMap.Dommel](tps://www.nuget.org/packages/Dapper.FluentMap.Dommel/) - Dapper.FluentMap extension for Dommel support.
+- [Dapper.FluentMap.Dommel](https://www.nuget.org/packages/Dapper.FluentMap.Dommel/) - Dapper.FluentMap extension for Dommel support.
 - [Dapper.Mapper](https://github.com/dotarj/Dapper.Mapper) - A extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them. 
 - [Dapper.SimpleLoad](https://github.com/Paymentsense/Dapper.SimpleLoad) - Dapper.SimpleLoad simplifies Dapper multi-mapping to load complex objects from a relational database. It's the companion to [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave).
 - [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave/) - Dapper.SimpleSave makes it easy to save complex object hierarchies to a relational database.
