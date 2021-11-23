@@ -4,7 +4,7 @@ This library is powered by [Dapper Plus](https://dapper-plus.net/)
 
 <a href="https://dapper-plus.net/">
 <kbd>
-<img src="https://zzzprojects.github.io/images/logo/dapper-plus.add.png" alt="Dapper Plus" />
+<img src="https://zzzprojects.github.io/images/logo/dapper-plus-add.png" alt="Dapper Plus" />
 </kbd>
 </a>
 
