@@ -37,7 +37,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Knowledge Base - Dapper](https://dapper-tutorial.net/knowledge-base) - Translated posts from Stack Overflow
 - [RIP Tutorial](https://riptutorial.com/dapper) - Archived Stack Overflow Documentation (Multi-Language)
 - AI (Chat GPT)
-   - [ZZZ Code AI](https://zzzcode.ai/answer-question?p1=dapper) - Generate instant answer to any EF Core question
+   - [ZZZ Code AI](https://zzzcode.ai/answer-question?p1=dapper) - Generate instant answer to any Dapper question
 
 ## Popular Packages
 - [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
