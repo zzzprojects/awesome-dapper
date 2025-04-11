@@ -32,8 +32,8 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ## Documentation and Learning
 
-- [Dapper Tutorial](https://dapper-tutorial.net/) - Basic learning material for Dapper.
 - [Learn Dapper](https://www.learndapper.com/) - This site is for developers who want to learn how to use Dapper
+- [Dapper Tutorial](https://dapper-tutorial.net/) - Basic learning material for Dapper.
 - [RIP Tutorial](https://riptutorial.com/dapper) - Archived Stack Overflow Documentation (Multi-Language)
 - AI (Chat GPT)
    - [ZZZ Code AI](https://zzzcode.ai/answer-question?p1=dapper) - Generate instant answer to any Dapper question
