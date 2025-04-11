@@ -47,8 +47,6 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 ## Popular Packages
 - [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
 - [Dapper.Contrib](https://www.nuget.org/packages/Dapper.Contrib/) - The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.
-- [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD/) - Basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
-helpers.
 - [Dapper.SqlBuilder](https://www.nuget.org/packages/Dapper.SqlBuilder/) - The Dapper SqlBuilder component, for building SQL queries dynamically.
 - [Dapper.Transaction](https://www.nuget.org/packages/Dapper.Transaction/) - IDbTransaction extension methods for Dapper: A high performance Micro-ORM supporting SQL Server, MySQL, Sqlite, SqlCE, Firebird etc..
 
@@ -69,6 +67,8 @@ helpers.
 - [Dapper.FluentMap.Dommel](https://www.nuget.org/packages/Dapper.FluentMap.Dommel/) - Dapper.FluentMap extension for Dommel support.
 - [Dapper.Mapper](https://github.com/dotarj/Dapper.Mapper) - A extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them.
 - [Dapper.Oracle](https://www.nuget.org/packages/Dapper.Oracle/) - Oracle support for Dapper Micro ORM.
+- [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD/) - Basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
+helpers.
 - [Dapper.SimpleLoad](https://github.com/Paymentsense/Dapper.SimpleLoad) - Dapper.SimpleLoad simplifies Dapper multi-mapping to load complex objects from a relational database. It's the companion to [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave).
 - [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave/) - Dapper.SimpleSave makes it easy to save complex object hierarchies to a relational database.
 - [Dapper.TableValuedParameter](https://github.com/ayberkcanturk/Dapper.TableValuedParameter) - An extension to provide Table-Valued Parameters to Dapper. .NET Core support available!
