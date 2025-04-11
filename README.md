@@ -57,7 +57,6 @@ helpers.
 - [Dapper.Abstractions](https://github.com/Tazmainiandevil/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
 - [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
 - [Dapper.Database](https://github.com/dallasbeek/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
-- [Dapper.Oracle](https://www.nuget.org/packages/Dapper.Oracle/) - Oracle support for Dapper Micro ORM.
 - [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD 
 - [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 - [LiteLib](https://unosquare.github.io/litelib/) - A cool little wrapper for SQLite based on Dapper from Unosquare Labs -- It's also free and MIT-licensed.
@@ -69,7 +68,8 @@ helpers.
 - [Dapper.FastCrud](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-orm extension for Dapper.
 - [Dapper.FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
 - [Dapper.FluentMap.Dommel](https://www.nuget.org/packages/Dapper.FluentMap.Dommel/) - Dapper.FluentMap extension for Dommel support.
-- [Dapper.Mapper](https://github.com/dotarj/Dapper.Mapper) - A extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them. 
+- [Dapper.Mapper](https://github.com/dotarj/Dapper.Mapper) - A extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them.
+- [Dapper.Oracle](https://www.nuget.org/packages/Dapper.Oracle/) - Oracle support for Dapper Micro ORM.
 - [Dapper.SimpleLoad](https://github.com/Paymentsense/Dapper.SimpleLoad) - Dapper.SimpleLoad simplifies Dapper multi-mapping to load complex objects from a relational database. It's the companion to [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave).
 - [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave/) - Dapper.SimpleSave makes it easy to save complex object hierarchies to a relational database.
 - [Dapper.TableValuedParameter](https://github.com/ayberkcanturk/Dapper.TableValuedParameter) - An extension to provide Table-Valued Parameters to Dapper. .NET Core support available!
