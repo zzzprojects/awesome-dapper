@@ -55,6 +55,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Dapper.Abstractions](https://github.com/Tazmainiandevil/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
 - [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
 - [Dapper.Database](https://github.com/dallasbeek/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
+- [Dapper.Extensions.NetCore](https://www.nuget.org/packages/Dapper.Extensions.NetCore) - A dapper extension library. Support MySQL,SQL Server,PostgreSQL,SQLite,Oracle and ODBC, Support cache.
 - [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD 
 - [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 - [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper
