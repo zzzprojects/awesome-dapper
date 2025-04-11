@@ -35,7 +35,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Learn Dapper](https://www.learndapper.com/) - This site is for developers who want to learn how to use Dapper
 - [Dapper Tutorial](https://dapper-tutorial.net/) - Basic learning material for Dapper.
 - [RIP Tutorial](https://riptutorial.com/dapper) - Archived Stack Overflow Documentation (Multi-Language)
-- AI (Chat GPT)
+- AI Tools
    - [Chat](https://zzzcode.ai/dapper/chat): Chat with our AI and ask any kind of Dapper related questions.
    - [SQL Injection Detector](https://zzzcode.ai/dapper/sql-injection-detector): Detect if your code or SQL contains a vulnerability.
    - [SQL Generator](https://zzzcode.ai/dapper/sql-generator): Generate SQL using your entity or model.
