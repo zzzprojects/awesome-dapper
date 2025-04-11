@@ -36,7 +36,13 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Dapper Tutorial](https://dapper-tutorial.net/) - Basic learning material for Dapper.
 - [RIP Tutorial](https://riptutorial.com/dapper) - Archived Stack Overflow Documentation (Multi-Language)
 - AI (Chat GPT)
-   - [ZZZ Code AI](https://zzzcode.ai/answer-question?p1=dapper) - Generate instant answer to any Dapper question
+   - [Chat](https://zzzcode.ai/dapper/chat): Chat with our AI and ask any kind of Dapper related questions.
+   - [SQL Injection Detector](https://zzzcode.ai/dapper/sql-injection-detector): Detect if your code or SQL contains a vulnerability.
+   - [SQL Generator](https://zzzcode.ai/dapper/sql-generator): Generate SQL using your entity or model.
+   - [Stored Procedure Generator](https://zzzcode.ai/dapper/stored-procedure-generator):  Generate Stored Procedure using your entity or model
+   - [Seed Data Generator](https://zzzcode.ai/dapper/seed-data-generator): Generate data to seed your table using your entity or model
+   - [Entity to Table Converter](https://zzzcode.ai/dapper/entity-to-table-converter): Convert an entity to a SQL table.
+   - [Table to Entity Converter](https://zzzcode.ai/dapper/table-to-entity-converter): Convert a SQL table to an entity.
 
 ## Popular Packages
 - [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
