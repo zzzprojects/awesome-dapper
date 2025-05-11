@@ -53,17 +53,20 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 ## Supported Packages
 - [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder/) - Dapper Query Builder using String Interpolation and Fluent API
 - [Dapper.Abstractions](https://github.com/Tazmainiandevil/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
-- [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
 - [Dapper.Database](https://github.com/dallasbeek/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
-- [Dapper.Extensions.NetCore](https://www.nuget.org/packages/Dapper.Extensions.NetCore) - A dapper extension library. Support MySQL,SQL Server,PostgreSQL,SQLite,Oracle and ODBC, Support cache.
+- [Dapper.Extensions.NetCore](https://www.nuget.org/packages/Dapper.Extensions.NetCore) - A dapper extension library for cache, sql seperation, reading & writing seperation, and performance monitoring.
+- [Dapper.FastCrud](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-orm extension for Dapper.
 - [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD 
 - [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 - [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper
 
 ## Unsupported Packages
+
+_If your package has been added here by mistake, let us know. We revise this list once a year to verify if a release or support has been added._
+
+- [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
 - [Dapper.Extension](https://github.com/m98proxy/Dapper.Extension) - CRUD extension methods for Dapper (WIP).
 - [Dapper.Extensions.Linq](https://github.com/ryanwatson/Dapper.Extensions.Linq) - Dapper.Extensions.Linq builds on this providing advanced DB access through Linq queries.
-- [Dapper.FastCrud](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-orm extension for Dapper.
 - [Dapper.FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
 - [Dapper.FluentMap.Dommel](https://www.nuget.org/packages/Dapper.FluentMap.Dommel/) - Dapper.FluentMap extension for Dommel support.
 - [Dapper.Mapper](https://github.com/dotarj/Dapper.Mapper) - A extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them.
