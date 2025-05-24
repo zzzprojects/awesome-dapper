@@ -60,13 +60,13 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Z.Dapper.Plus](https://www.nuget.org/packages/Z.Dapper.Plus/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
 
 ## Supported Packages
-- [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder/) - Dapper Query Builder using String Interpolation and Fluent API
-- [Dapper.Abstractions](https://github.com/Tazmainiandevil/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
-- [Dapper.Database](https://github.com/dallasbeek/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
+- [DapperQueryBuilder](https://www.nuget.org/packages/Dapper-QueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
+- [Dapper.Abstractions](https://www.nuget.org/packages/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
+- [Dapper.Database](https://www.nuget.org/packages/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
 - [Dapper.Extensions.NetCore](https://www.nuget.org/packages/Dapper.Extensions.NetCore) - A dapper extension library for cache, sql seperation, reading & writing seperation, and performance monitoring.
 - [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD 
-- [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
-- [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper
+- [Dommel](https://www.nuget.org/packages/Dommel) - Simple CRUD operations for Dapper.
+- [MicroOrm.Dapper.Repositories](https://www.nuget.org/packages/MicroOrm.Dapper.Repositories) - CRUD for Dapper
 
 ## Unsupported Packages
 
