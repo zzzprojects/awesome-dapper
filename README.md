@@ -55,10 +55,9 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ## Popular Packages
 - [Dapper](https://www.nuget.org/packages/Dapper/) - Dapper is a simple micro-ORM used to simplify working with ADO.NET; if you like SQL but dislike the boilerplate of ADO.NET: Dapper is for you!
-- [Z.Dapper.Plus](https://www.nuget.org/packages/Z.Dapper.Plus/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
-- [Dapper.Contrib](https://www.nuget.org/packages/Dapper.Contrib/) - The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.
 - [Dapper.SqlBuilder](https://www.nuget.org/packages/Dapper.SqlBuilder/) - The Dapper SqlBuilder component, for building SQL queries dynamically.
 - [Dapper.Transaction](https://www.nuget.org/packages/Dapper.Transaction/) - Add IDbTransaction extension methods for Dapper.
+- [Z.Dapper.Plus](https://www.nuget.org/packages/Z.Dapper.Plus/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
 
 ## Supported Packages
 - [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder/) - Dapper Query Builder using String Interpolation and Fluent API
@@ -74,6 +73,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 _If your package has been added here by mistake, let us know. We revise this list once a year to verify if a release or support has been added._
 
 - [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
+- [Dapper.Contrib](https://www.nuget.org/packages/Dapper.Contrib/) - The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.
 - [Dapper.Extension](https://github.com/m98proxy/Dapper.Extension) - CRUD extension methods for Dapper (WIP).
 - [Dapper.Extensions.Linq](https://github.com/ryanwatson/Dapper.Extensions.Linq) - Dapper.Extensions.Linq builds on this providing advanced DB access through Linq queries.
 - [Dapper.FastCrud](https://www.nuget.org/packages/Dapper.FastCrud) - The fastest micro-orm extension for Dapper.
