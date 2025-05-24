@@ -60,45 +60,35 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Z.Dapper.Plus](https://www.nuget.org/packages/Z.Dapper.Plus/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
 
 ## Supported Packages
-- [DapperQueryBuilder](https://www.nuget.org/packages/Dapper-QueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
-- [Dapper.Abstractions](https://www.nuget.org/packages/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
-- [Dapper.Database](https://www.nuget.org/packages/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
-- [Dapper.Extensions.NetCore](https://www.nuget.org/packages/Dapper.Extensions.NetCore) - A dapper extension library for cache, sql seperation, reading & writing seperation, and performance monitoring.
+- [DapperQueryBuilder](https://www.nuget.org/packages/Dapper-QueryBuilder/) - Dapper Query Builder using String Interpolation and Fluent API
+- [Dapper.Abstractions](https://www.nuget.org/packages/Dapper.Abstractions/) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
+- [Dapper.Database](https://www.nuget.org/packages/Dapper.Database/) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
+- [Dapper.Extensions.NetCore](https://www.nuget.org/packages/Dapper.Extensions.NetCore/) - A dapper extension library for cache, sql seperation, reading & writing seperation, and performance monitoring.
 - [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD 
-- [Dommel](https://www.nuget.org/packages/Dommel) - Simple CRUD operations for Dapper.
-- [MicroOrm.Dapper.Repositories](https://www.nuget.org/packages/MicroOrm.Dapper.Repositories) - CRUD for Dapper
+- [Dommel](https://www.nuget.org/packages/Dommel/) - Simple CRUD operations for Dapper.
+- [MicroOrm.Dapper.Repositories](https://www.nuget.org/packages/MicroOrm.Dapper.Repositories/) - CRUD for Dapper
 
 ## Unsupported Packages
 
 _If your package has been added here by mistake, let us know. We revise this list once a year to verify if a release or support has been added._
 
-- [Dapper.Compose](https://github.com/naasking/Dapper.Compose) - Typed multi query composition for Dapper.
+- [Dapper.Compose](https://www.nuget.org/packages/Dapper.Compose/) - Typed multi query composition for Dapper.
 - [Dapper.Contrib](https://www.nuget.org/packages/Dapper.Contrib/) - The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.
-- [Dapper.Extension](https://github.com/m98proxy/Dapper.Extension) - CRUD extension methods for Dapper (WIP).
-- [Dapper.Extensions.Linq](https://github.com/ryanwatson/Dapper.Extensions.Linq) - Dapper.Extensions.Linq builds on this providing advanced DB access through Linq queries.
-- [Dapper.FastCrud](https://www.nuget.org/packages/Dapper.FastCrud) - The fastest micro-orm extension for Dapper.
-- [Dapper.FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
+- [Dapper.Extension](https://www.nuget.org/packages/Dapper.Extension/) - CRUD extension methods for Dapper (WIP).
+- [Dapper.Extensions.Linq](https://www.nuget.org/packages/Dapper.Extensions.Linq/) - Dapper.Extensions.Linq builds on this providing advanced DB access through Linq queries.
+- [Dapper.FastCrud](https://www.nuget.org/packages/Dapper.FastCrud/) - The fastest micro-orm extension for Dapper.
+- [Dapper.FluentMap](https://www.nuget.org/packages/Dapper.FluentMap/) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
 - [Dapper.FluentMap.Dommel](https://www.nuget.org/packages/Dapper.FluentMap.Dommel/) - Dapper.FluentMap extension for Dommel support.
-- [Dapper.Mapper](https://github.com/dotarj/Dapper.Mapper) - A extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them.
+- [Dapper.Mapper](https://www.nuget.org/packages/Dapper.Mapper/) - A extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them.
 - [Dapper.Oracle](https://www.nuget.org/packages/Dapper.Oracle/) - Oracle support for Dapper Micro ORM.
-- [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD/) - Basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
+- [Dapper.SimpleCRUD](https://www.nuget.org/packages/Dapper.SimpleCRUD/) - Basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
 helpers.
-- [Dapper.SimpleLoad](https://github.com/Paymentsense/Dapper.SimpleLoad) - Dapper.SimpleLoad simplifies Dapper multi-mapping to load complex objects from a relational database. It's the companion to [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave).
+- [Dapper.SimpleLoad](https://github.com/Paymentsense/Dapper.SimpleLoad/) - Dapper.SimpleLoad simplifies Dapper multi-mapping to load complex objects from a relational database. It's the companion to [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave).
 - [Dapper.SimpleSave](https://github.com/Paymentsense/Dapper.SimpleSave/) - Dapper.SimpleSave makes it easy to save complex object hierarchies to a relational database.
-- [Dapper.TableValuedParameter](https://github.com/ayberkcanturk/Dapper.TableValuedParameter) - An extension to provide Table-Valued Parameters to Dapper. .NET Core support available!
-- [DapperExtensions](https://github.com/tmsmith/Dapper-Extensions) - A small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs.
-- [LiteLib](https://unosquare.github.io/litelib/) - A cool little wrapper for SQLite based on Dapper from Unosquare Labs -- It's also free and MIT-licensed.
+- [Dapper.TableValuedParameter](https://www.nuget.org/packages/Dapper.TableValuedParameter/) - An extension to provide Table-Valued Parameters to Dapper. .NET Core support available!
+- [DapperExtensions](https://www.nuget.org/packages/DapperExtensions/) - A small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs.
+- [LiteLib](https://www.nuget.org/packages/litelib/) - A cool little wrapper for SQLite based on Dapper from Unosquare Labs -- It's also free and MIT-licensed.
 
-## Contribute
-
-The best way to contribute is by **spreading the word** about the library:
-
- - Blog it
- - Comment it
- - Star it
- - Share it
- 
-A **HUGE THANKS** for your help.
 
 ## More Projects
 
