@@ -54,17 +54,18 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
    - [Table to Entity Converter](https://zzzcode.ai/dapper/table-to-entity-converter): Convert a SQL table to an entity.
 
 ## Popular Packages
-- [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
+- [Dapper](https://www.nuget.org/packages/Dapper/) - Dapper is a simple micro-ORM used to simplify working with ADO.NET; if you like SQL but dislike the boilerplate of ADO.NET: Dapper is for you!
+- [Z.Dapper.Plus](https://www.nuget.org/packages/Z.Dapper.Plus/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
 - [Dapper.Contrib](https://www.nuget.org/packages/Dapper.Contrib/) - The official collection of get, insert, update and delete helpers for Dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.
 - [Dapper.SqlBuilder](https://www.nuget.org/packages/Dapper.SqlBuilder/) - The Dapper SqlBuilder component, for building SQL queries dynamically.
-- [Dapper.Transaction](https://www.nuget.org/packages/Dapper.Transaction/) - IDbTransaction extension methods for Dapper: A high performance Micro-ORM supporting SQL Server, MySQL, Sqlite, SqlCE, Firebird etc..
+- [Dapper.Transaction](https://www.nuget.org/packages/Dapper.Transaction/) - Add IDbTransaction extension methods for Dapper.
 
 ## Supported Packages
 - [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder/) - Dapper Query Builder using String Interpolation and Fluent API
 - [Dapper.Abstractions](https://github.com/Tazmainiandevil/Dapper.Abstractions) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
 - [Dapper.Database](https://github.com/dallasbeek/Dapper.Database) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
 - [Dapper.Extensions.NetCore](https://www.nuget.org/packages/Dapper.Extensions.NetCore) - A dapper extension library for cache, sql seperation, reading & writing seperation, and performance monitoring.
-- [Dapper.FastCrud](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-orm extension for Dapper.
+- [Dapper.FastCrud](https://www.nuget.org/packages/Dapper.FastCrud) - The fastest micro-orm extension for Dapper.
 - [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD 
 - [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 - [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper
