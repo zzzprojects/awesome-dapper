@@ -56,7 +56,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 ## Popular Packages
 - [Dapper](https://www.nuget.org/packages/Dapper/) - Dapper is a simple micro-ORM used to simplify working with ADO.NET; if you like SQL but dislike the boilerplate of ADO.NET: Dapper is for you!
 - [Dapper.SqlBuilder](https://www.nuget.org/packages/Dapper.SqlBuilder/) - The Dapper SqlBuilder component, for building SQL queries dynamically.
-- [Dapper.Transaction](https://www.nuget.org/packages/Dapper.Transaction/) - Add IDbTransaction extension methods for Dapper.
+- [Dapper.Transaction](https://www.nuget.org/packages/Dapper.Transaction/) - IDbTransaction extension methods for Dapper: A high performance Micro-ORM supporting SQL Server, MySQL, Sqlite, SqlCE, Firebird etc..
 - [Z.Dapper.Plus](https://www.nuget.org/packages/Z.Dapper.Plus/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
 
 ## Supported Packages
@@ -64,9 +64,9 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Dapper.Abstractions](https://www.nuget.org/packages/Dapper.Abstractions/) - A simple abstraction atop the Dapper extension methods and TransactionScope for testability.
 - [Dapper.Database](https://www.nuget.org/packages/Dapper.Database/) - Dapper.Database contains a number of helper methods for inserting, getting, updating and deleting records.
 - [Dapper.Extensions.NetCore](https://www.nuget.org/packages/Dapper.Extensions.NetCore/) - A dapper extension library for cache, sql seperation, reading & writing seperation, and performance monitoring.
-- [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD 
+- [Dapper.Rainbow](https://www.nuget.org/packages/Dapper.Rainbow/) - Trivial micro-orm implemented on Dapper, provides with CRUD helpers.
 - [Dommel](https://www.nuget.org/packages/Dommel/) - Simple CRUD operations for Dapper.
-- [MicroOrm.Dapper.Repositories](https://www.nuget.org/packages/MicroOrm.Dapper.Repositories/) - CRUD for Dapper
+- [MicroOrm.Dapper.Repositories](https://www.nuget.org/packages/MicroOrm.Dapper.Repositories/) - Lightweight library that extends Dapper by generating SQL for CRUD operations based on your POCO classes.
 
 ## Unsupported Packages
 
