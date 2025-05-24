@@ -1,6 +1,6 @@
 ## Sponsors
 
-ZZZ Projects proudly owns and maintains `Awesome Dapper` as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community.
+As part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community, ZZZ Projects owns and maintains Awesome Dapper.
 
 Through [Dapper Plus](https://dapper-plus.net/) and [Entity Framework Extensions](https://entityframework-extensions.net/), we actively sponsor and help key open-source libraries grow.
 
