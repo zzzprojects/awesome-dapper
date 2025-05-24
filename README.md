@@ -1,13 +1,14 @@
-## Library Powered By
+## Sponsors
 
-This library is powered by [Dapper Plus](https://dapper-plus.net/)
+ZZZ Projects proudly owns and maintains `Awesome Dapper` as part of our [mission](https://zzzprojects.com/mission) to support the .NET community.
 
-<a href="https://dapper-plus.net/">
-<kbd>
-<img src="https://zzzprojects.github.io/images/logo/dapper-plus-add.png" alt="Dapper Plus" />
-</kbd>
-</a>
+Through [Dapper Plus](https://dapper-plus.net/) and [Entity Framework Extensions](https://entityframework-extensions.net/), we actively sponsor and help key open-source libraries grow.
 
+👉 [*See how Dapper Plus adds real value to the Dapper ecosystem*](https://www.learndapper.com/dapper-and-dapper-plus)
+
+[![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-dapper/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert)
+
+[![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-dapper/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert)
 ---
 
 # Awesome Dapper
