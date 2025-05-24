@@ -20,7 +20,7 @@ Through [Dapper Plus](https://dapper-plus.net/) and [Entity Framework Extensions
 
 ## Contributing
 
-Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/zzzprojects/awesome-dapper/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
+Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/zzzprojects/awesome-dapper/blob/master/CONTRIBUTING.md) before submitting a pull request.
 
 ## Contents
 
