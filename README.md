@@ -6,8 +6,6 @@
 
 A curated list of awesome dapper libraries, packages, and documentation.
 
----
-
 ## Sponsors
 
 ZZZ Projects owns and maintains **Awesome Dapper** as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community
@@ -20,13 +18,11 @@ Through [Dapper Plus](https://dapper-plus.net/) and [Entity Framework Extensions
 
 [![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-dapper/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert)
 
----
-
-### Contributing
+## Contributing
 
 Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/zzzprojects/awesome-dapper/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
 
-### Contents
+## Contents
 
 - [Awesome Dapper](#awesome-dapper)
    - [Documentation and Learning](#documentation-and-learning)
