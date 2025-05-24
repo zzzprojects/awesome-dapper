@@ -1,3 +1,13 @@
+# Awesome Dapper
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+[Dapper](https://github.com/StackExchange/Dapper) is a simple object mapper for .NET and own the title of King of Micro ORM in terms of speed and is virtually as fast as using a raw ADO.NET data reader.
+
+A curated list of awesome dapper libraries, packages, and documentation.
+
+---
+
 ## Sponsors
 
 ZZZ Projects owns and maintains **Awesome Dapper** as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community
@@ -9,15 +19,8 @@ Through [Dapper Plus](https://dapper-plus.net/) and [Entity Framework Extensions
 [![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-dapper/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert)
 
 [![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-dapper/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert)
+
 ---
-
-# Awesome Dapper
-
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
-[Dapper](https://github.com/StackExchange/Dapper) is a simple object mapper for .NET and own the title of King of Micro ORM in terms of speed and is virtually as fast as using a raw ADO.NET data reader.
-
-A curated list of awesome dapper libraries, packages, and documentation.
 
 ### Contributing
 
