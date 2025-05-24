@@ -24,11 +24,11 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ## Contents
 
-- [Awesome Dapper](#awesome-dapper)
-   - [Documentation and Learning](#documentation-and-learning)
-   - [Popular Packages](#popular-packages)
-   - [Supported Packages](#supported-packages)
-   - [Unsupported Packages](#supported-packages)
+- [Documentation and Learning](#documentation-and-learning)
+- [Dapper Newsletter](#dapper-newsletter)
+- [Popular Packages](#popular-packages)
+- [Supported Packages](#supported-packages)
+- [Unsupported Packages](#supported-packages)
 
 ## Documentation and Learning
 
@@ -43,6 +43,10 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
    - [Seed Data Generator](https://zzzcode.ai/dapper/seed-data-generator): Generate data to seed your table using your entity or model
    - [Entity to Table Converter](https://zzzcode.ai/dapper/entity-to-table-converter): Convert an entity to a SQL table.
    - [Table to Entity Converter](https://zzzcode.ai/dapper/table-to-entity-converter): Convert a SQL table to an entity.
+ 
+## Dapper Newsletter
+
+TODO
 
 ## Popular Packages
 - [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
