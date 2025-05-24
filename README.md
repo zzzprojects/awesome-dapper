@@ -32,9 +32,9 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ## Documentation and Learning
 
-- [Learn Dapper](https://www.learndapper.com/) - This site is for developers who want to learn how to use Dapper
-- [Dapper Tutorial](https://dappertutorial.net/) - Basic learning material for Dapper.
-- [RIP Tutorial](https://riptutorial.com/dapper) - Archived Stack Overflow Documentation (Multi-Language)
+- [Learn Dapper](https://www.learndapper.com/) - Practical tutorials and examples to master Dapper.
+- [Dapper Tutorial](https://dappertutorial.net/) - Step-by-step guide and code samples for learning Dapper.
+- [RIP Tutorial](https://riptutorial.com/dapper) - Archived Stack Overflow Documentation (Multi-Language).
 - AI Tools
    - [Chat](https://zzzcode.ai/dapper/chat): Chat with our AI and ask any kind of Dapper related questions.
    - [SQL Injection Detector](https://zzzcode.ai/dapper/sql-injection-detector): Detect if your code or SQL contains a vulnerability.
@@ -46,7 +46,12 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
  
 ## Dapper Newsletter
 
-TODO
+**📬 Subscribe for Dapper updates that matter** – [Sign up free](https://mailchi.mp/zzzprojects/dapper_newsletter) and stay in the loop.
+
+- 🛠️ Real-world Dapper tips
+- 🚀 New package releases
+- 🎓 Dev-focused video tutorials
+- 🧠 Fresh articles and guides
 
 ## Popular Packages
 - [Z.Dapper.Plus](http://dapper-plus.net/) - Dapper Plus extends your IDbConnection with high-performance bulk operations: BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and more.
