@@ -10,13 +10,11 @@ A curated list of awesome dapper libraries, packages, and documentation.
 
 ZZZ Projects owns and maintains **Awesome Dapper** as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community
 
-Through [Dapper Plus](https://dapper-plus.net/) and [Entity Framework Extensions](https://entityframework-extensions.net/), we actively sponsor and help key open-source libraries grow.
+Through [Dapper Plus](https://dapper-plus.net/?utm_source=zzzprojects&utm_medium=awesome-dapper) and [Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=zzzprojects&utm_medium=awesome-dapper), we actively sponsor and help key open-source libraries grow.
 
-👉 [*See how Dapper Plus adds real value to the Dapper ecosystem*](https://www.learndapper.com/dapper-and-dapper-plus)
+[![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-dapper/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert?utm_source=zzzprojects&utm_medium=awesome-dapper)
 
-[![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/awesome-dapper/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert)
-
-[![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-dapper/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert)
+[![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/awesome-dapper/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert?utm_source=zzzprojects&utm_medium=awesome-dapper)
 
 ## Contributing
 
